@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #111;
+  color: #fff;
+}
+.app-container {
+  padding: 20px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.product-card {
+  background: #222;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+button {
+  margin-right: 10px;
+}
